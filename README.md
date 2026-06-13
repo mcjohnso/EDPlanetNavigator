@@ -12,6 +12,12 @@ EDMC window.
 It is a modern, maintained replacement for the unmaintained
 [EliteHIS](https://github.com/fiinnnn/EliteHIS) plugin.
 
+<p align="center">
+  <img src="docs/overlay.png"
+       alt="EDPlanetNavigator overlay in the cockpit showing 'TURN LEFT 54°' with a directional arrow, plus bearing and distance to the target"
+       width="720">
+</p>
+
 ## Features
 
 - **Turn guidance** — uses your ship's heading to say *turn left/right by N°*, with an on‑screen
@@ -43,6 +49,12 @@ It is a modern, maintained replacement for the unmaintained
 Enter a **latitude** and **longitude** in the EDMC window and click **Set** (or set defaults in
 *Settings → EDPlanetNavigator*). Fly near the planet and follow the turn arrow, bearing, and
 distance, which update about once per second. Click **Clear** to stop.
+
+<p align="center">
+  <img src="docs/edmc_interface.png"
+       alt="EDPlanetNavigator row in the EDMC window: target latitude/longitude entry with Set and Clear buttons and a status line"
+       width="340">
+</p>
 
 See the [plugin README](EDPlanetNavigator/README.md) for full usage and settings details.
 
